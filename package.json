@@ -52,7 +52,7 @@
     "popper.js": "^1.16.1",
     "rxjs": "~6.3.3",
     "save": "^2.4.0",
-    "socket.io-client": "^2.3.1",
+    "socket.io-client": "^2.4.0",
     "sweetalert": "^2.1.2",
     "sweetalert2": "^9.11.0",
     "syncfusion-javascript": "^18.3.35",
